@@ -1,2 +1,2 @@
 # SEG
-Seguridad
+Repositorio Transversal de Seguridad
